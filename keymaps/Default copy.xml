@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy 1" parent="$default">
+<keymap version="1" name="Default copy" parent="$default">
   <action id="CopyElement" />
   <action id="LocalHistory.PutLabel">
     <keyboard-shortcut first-keystroke="f6" />
