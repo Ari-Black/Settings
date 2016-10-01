@@ -10,4 +10,7 @@
     </option>
     <option name="cloneParentDir" value="C:\DEV" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:\DEV\FlappyBird" />
+  </component>
 </application>
