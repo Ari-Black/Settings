@@ -1,4 +1,9 @@
 <application>
+  <component name="GwtSdkManager">
+    <gwt-sdk-list>
+      <gwt-sdk url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-dev/2.6.0" />
+    </gwt-sdk-list>
+  </component>
   <component name="libraryTable">
     <library name="Python 3.5.2 (C:\Users\Ari Black\AppData\Local\Programs\Python\Python35-32\python.exe) interpreter library">
       <CLASSES>
